@@ -1,0 +1,2 @@
+58 * * * * python3 /home/opc/OCI-Auto_PowerOn_PowerOff_Solution/Auto_PowerOn_PowerOff_Script.py -a Down -ip
+01 * * * * python3 /home/opc/OCI-Auto_PowerOn_PowerOff_Solution/Auto_PowerOn_PowerOff_Script.py -a Up -ip
